@@ -367,20 +367,3 @@
 * https://twitter.com/golangweekly
 * https://twitter.com/GolangTrends
 
-
-
-## 微信公众号
-
-* coding进阶：分享Go语言入门、中级到高级教程，以及微服务、云原生架构
-
-  ![coding进阶](./workspace/img/wechat.png)
-
-##   微信赞助
-
-![img](./workspace/img/wechat-payment.png) 
-
-## 微信群交流
-
-加我微信，入群交流
-
-![](./workspace/img/wechat-group.png)  
